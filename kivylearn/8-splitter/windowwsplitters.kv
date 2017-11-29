@@ -1,0 +1,25 @@
+#:kivy 1.10.0
+
+<SplittersWidget>:
+	BoxLayout:
+		orientation: 'vertical'
+
+	    Splitter:
+	        sizable_from: 'bottom'
+	        min_size: 80
+			max_size: 220
+	        
+	        Label:
+	            text: 'Closed1'
+	    
+	    BoxLayout:
+	        Splitter:
+	            sizable_from: 'right'
+		        min_size: 80
+				max_size: 220
+	            
+	            Label:
+	                text: 'Closed2'
+	        
+	        Label:
+	            text: 'Closed3'
