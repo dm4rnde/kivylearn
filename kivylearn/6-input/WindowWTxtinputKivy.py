@@ -1,5 +1,5 @@
 import kivy
-kivy.require('1.10.0') #change to your kivy version
+kivy.require('1.10.0')
 
 from kivy.app import App
 from kivy.uix.textinput import TextInput

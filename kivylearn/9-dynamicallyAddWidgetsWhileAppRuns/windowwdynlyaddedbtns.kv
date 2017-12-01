@@ -1,0 +1,12 @@
+#:kivy 1.10.0
+
+<MainContainer>:
+	orientation: 'vertical'
+
+	Button:
+	    text: 'Close1'
+	Button:
+	    text: 'Close2'
+	Button:
+	    text: 'Add'
+	    on_press: root.add_new_btn(self)
