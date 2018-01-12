@@ -1,12 +1,10 @@
 ## kivylearn
 Going through basic GUI concepts in kivy library. Concepts chosen randomly and presented in random order. 
 
-<br>
 
 #### Purpose
 Study and practice. 
 
-<br>
 
 #### Specifics (environment):
 
