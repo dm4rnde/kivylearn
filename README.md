@@ -1,12 +1,12 @@
-## kivylearn
+# kivylearn
 Going through basic GUI concepts in kivy library. Concepts chosen randomly and presented in random order. 
 
 
-#### Purpose
+### Purpose
 Study and practice. 
 
 
-#### Specifics (environment):
+### Specifics (environment):
 
 - kivy 1.10.1.dev0 [python package]
 - Python 3.6.2
