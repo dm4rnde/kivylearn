@@ -3,7 +3,7 @@ Going through basic GUI concepts in kivy library. Concepts chosen randomly and p
 
 
 ### Purpose
-Study and practice. 
+Study and practice. Reuse.
 
 
 ### Specifics (environment):
