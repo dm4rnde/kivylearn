@@ -1,0 +1,35 @@
+#:kivy 1.10.0
+
+BoxLayout:
+	orientation: 'vertical'
+
+	BoxLayout:
+        canvas:
+            Color: 
+                rgba: [.3, .4, .8, 0.5]
+            Rectangle:
+                pos: self.pos
+                size: self.size
+		Button:
+		    text: 'Close1'
+		Label:
+		    text: 'Text1'
+
+	BoxLayout:
+		Button:
+		    text: 'Close2'
+	        canvas:
+	            Color: 
+	                rgba: [.4, .0, .0, 0.5]
+	            Rectangle:
+	                pos: self.pos
+	                size: self.size
+		Label:
+		    text: 'Text2'
+	        canvas:
+	            Color: 
+	                rgba: [.0, .3, .0, 0.5]
+	            Rectangle:
+	                pos: self.pos
+	                size: self.size
+		    

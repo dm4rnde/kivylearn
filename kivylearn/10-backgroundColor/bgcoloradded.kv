@@ -1,0 +1,13 @@
+#:kivy 1.10.0
+
+BoxLayout:
+	Label:
+	    text: 'Text1'
+        canvas:
+            Color: 
+                rgba: [.2, .7, .3, 0.5]
+            Rectangle:
+                pos: self.pos
+                size: self.size
+	Label:
+	    text: 'Text2'
