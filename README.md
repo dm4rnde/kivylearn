@@ -14,10 +14,10 @@ Study and practice. Reuse.
 - Cython (0.27.3) [python package]
 
 
-### Setup (macOS 10.12.6 specific, terminal):
+### Setting up environment to be able to run Kivy (macOS 10.12.6 specific, terminal):
 
 ```
-#this is just a guide, your commands/versions might vary!
+**#this is just a guide, your commands/versions/specifics might vary!**
 sudo pip3.6 install virtualenv
 brew install pkg-config sdl sdl_image sdl_mixer sdl_ttf portmidi sdl2 sdl2_image sdl2_ttf sdl2_mixer gstreamer
 brew install smpeg
