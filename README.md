@@ -16,7 +16,7 @@ Study and practice. Reuse.
 
 ### Setting up environment to be able to run Kivy (macOS 10.12.6 specific, terminal):
 
-**_This is just a guide, your commands/versions/specifics might vary!_**
+_This is just a guide, your commands/versions/specifics might vary!_
 
 ```
 sudo pip3.6 install virtualenv
